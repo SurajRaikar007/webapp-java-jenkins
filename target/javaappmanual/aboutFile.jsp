@@ -7,6 +7,6 @@
 <title>about</title>
 </head>
 <body>
-<p>Go with flow  <br> This is automatically set by eclipse to tomcat</p>
+<p>Go with flow  <br> This is automatically set by eclipse and managed by JENKINS to tomcat</p>
 </body>
 </html>

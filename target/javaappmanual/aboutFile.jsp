@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>about</title>
+<title>about us </title>
 </head>
 <body>
-<p>Go with flow  <br> This is automatically set by eclipse and managed by JENKINS to tomcat</p>
+<p>  <br> This is automatically set by eclipse and managed by JENKINS to tomcat</p>
 </body>
 </html>

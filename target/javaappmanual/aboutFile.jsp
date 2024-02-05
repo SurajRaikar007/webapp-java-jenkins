@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>about </title>
+<title>about</title>
 </head>
 <body>
-<p>  <br> This is automatically set by eclipse to tomcat</p>
+<p>Go with flow this <br> This is manually set by eclipse to tomcat</p>
 </body>
 </html>
